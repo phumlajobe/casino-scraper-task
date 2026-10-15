@@ -69,6 +69,10 @@ Then, Open your web browser and navigate to http://localhost:8000 to view the li
 
 ----
 
+## Deployment
+The front-end dashboard has been published using a free static hosting service:
+- **Hosting Platform:** https://casino-scraper-task.netlify.app/
+
 
 ## Scaling Architecture (200+ Casinos Daily)
 
